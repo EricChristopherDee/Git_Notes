@@ -1,4 +1,5 @@
 Commands:
+
     git status shows untracked files (the method used to determine file status/color in text editors)
     
     git log / git log --oneline shows commits and heads
