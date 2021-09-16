@@ -1,11 +1,4 @@
 Commands:
-<<<<<<< HEAD
-    git status
-        # Shows untracked files (the method used to determine file status/color in text editors)
-    
-    git log / git log --oneline
-        # Shows commits and heads
-=======
     git status shows untracked files (the method used to determine file status/color in text editors)
     
     git log / git log --oneline shows commits and heads
@@ -18,5 +11,4 @@ Commands:
 
     git fetch checks metadata/current repo state
 
-    git clean -d -f removes all tracked files, helpful to merge an uncooperative origin... just make sure to commit them/backup first
->>>>>>> 0be45f5 (Readme)
+    git clean -d -f removes all tracked files, helpful to merge an uncooperative origin... just make sure to commit them first
